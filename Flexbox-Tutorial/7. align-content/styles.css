@@ -1,52 +1,56 @@
 body {
-    margin: 0;
+	margin: 0;
 }
 .container {
-    border: 6px solid black;
-    display: flex;
-    height: 800px;
-    /* flex-direction: column; */
-    /* flex-direction: row | row-reverse | column | column-reverse  */
-    flex-wrap: wrap;
-    /* flex-wrap: nowrap | wrap | wrap-reverse */
-    /* flex-flow: row nowrap; */
-    /* justify-content: flex-start; */
-    /* justify-content: flex-start | flex-end | center | space-between | space-around | space-evenly;     */
-    /* align-items: stretch; */
-    /* align-items: stretch | flex-start | flex-end | center | baseline */
-    align-content: stretch;
-    /* align-content: stretch | flex-start | flex-end | space-between | space-around */
+	border: 6px solid black;
+	display: flex;
+	height: 800px;
+	/* flex-direction: column; */
+	/* flex-direction: row | row-reverse | column | column-reverse  */
+	flex-wrap: wrap;
+	/* flex-wrap: nowrap | wrap | wrap-reverse */
+	/* flex-flow: row nowrap; */
+	/* justify-content: flex-start; */
+	/* justify-content: flex-start | flex-end | center | space-between | space-around | space-evenly;     */
+	/* align-items: stretch; */
+	/* align-items: stretch | flex-start | flex-end | center | baseline */
+	align-content: stretch;
+	/* align-content: stretch | flex-start | flex-end | space-between | space-around */
 }
 .flex-item {
-    color: white;
-    font-size: 1.5rem;
-    padding: 1rem;
-    text-align: center;
+	color: white;
+	font-size: 1.5rem;
+	padding: 1rem;
+	text-align: center;
 }
 .item-1 {
-    background-color: #B4BF35;
+	background-color: #b4bf35;
+	padding-bottom: 3rem;
 }
 .item-2 {
-    background-color: #B95F21;
+	background-color: #b95f21;
+	padding-top: 5rem;
 }
 .item-3 {
-    background-color: #1C4C56;
+	background-color: #1c4c56;
+	font-size: 3rem;
 }
+
 .item-4 {
-    background-color: #CfB276;
+	background-color: #cfb276;
 }
 .item-5 {
-    background-color: #6B0803;
+	background-color: #6b0803;
 }
 .item-6 {
-    background-color: #1C4C56;
+	background-color: #1c4c56;
 }
 .item-7 {
-    background-color: #B95F21;
+	background-color: #b95f21;
 }
 .item-8 {
-    background-color: #01243A;
+	background-color: #01243a;
 }
 .item-9 {
-    background-color: #AAD041;
+	background-color: #aad041;
 }

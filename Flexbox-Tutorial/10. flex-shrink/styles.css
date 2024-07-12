@@ -1,43 +1,43 @@
 body {
-    margin: 0;
+	margin: 0;
 }
 .container {
-    border: 6px solid black;
-    display: flex;
+	border: 6px solid black;
+	display: flex;
 }
 .flex-item {
-    color: white;
-    font-size: 1.5rem;
-    padding: 1rem;
-    text-align: center;
-    /* flex-shrink: 0; */
-    /* width: 8rem; */
+	color: white;
+	font-size: 1.5rem;
+	padding: 1rem;
+	text-align: center;
+	/* flex-shrink: 0; */
+	/* width: 8rem; */
 }
 .item-1 {
-    background-color: #B4BF35;
+	background-color: #b4bf35;
 }
 .item-2 {
-    background-color: #B95F21;
+	background-color: #b95f21;
 }
 .item-3 {
-    background-color: #1C4C56;
-    /* flex-shrink: 4; */
+	background-color: #1c4c56;
+	/* flex-shrink: 4; */
 }
 .item-4 {
-    background-color: #CfB276;
+	background-color: #cfb276;
 }
 .item-5 {
-    background-color: #6B0803;
+	background-color: #6b0803;
 }
 .item-6 {
-    background-color: #1C4C56;
+	background-color: #1c4c56;
 }
 .item-7 {
-    background-color: #B95F21;
+	background-color: #b95f21;
 }
 .item-8 {
-    background-color: #01243A;
+	background-color: #01243a;
 }
 .item-9 {
-    background-color: #AAD041;
+	background-color: #aad041;
 }
